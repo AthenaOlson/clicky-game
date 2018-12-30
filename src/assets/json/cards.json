@@ -1,49 +1,75 @@
+[
+  {
+    "id": 1,
+    "count": 0,
+		"name": "girl-01",
+    "image": "./images/grl01.jpg"
+  },
 
-[{
-    "name": "girl-01",
-    "url": "./images/grl01.jpg"
+  {
+    "id": 2,
+    "count": 0,
+		"name": "girl-02",
+    "image": "./images/grl02.jpg"
   },
   {
-    "name": "girl-02",
-    "url": "./images/grl02.jpg"
+    "id": 3,
+    "count": 0,
+		"name": "girl-03",
+    "image": "./images/grl03.jpg"
   },
   {
-    "name": "girl-03",
-    "url": "./images/grl03.jpg"
+    "id": 4,
+    "count": 0,
+		"name": "girl-04",
+    "image": "./images/grl04.jpg"
   },
   {
-    "name": "girl-04",
-    "url": "./images/grl04.jpg"
+    "id": 5,
+    "count": 0,
+		"name": "girl-05",
+    "image": "./images/grl05.jpg"
   },
   {
-    "name": "girl-05",
-    "url": "./images/grl05.jpg"
+    "id": 6,
+    "count": 0,
+		"name": "girl-06",
+    "image": "./images/grl06.jpg"
   },
   {
-    "name": "girl-06",
-    "url": "./images/grl06.jpg"
+    "id": 7,
+    "count": 0,
+		"name": "girl-07",
+    "image": "./images/grl07.jpg"
   },
   {
-    "name": "girl-07",
-    "url": "./images/grl07.jpg"
+    "id": 8,
+    "count": 0,
+		"name": "girl-08",
+    "image": "./images/grl08.jpg"
   },
   {
-    "name": "girl-08",
-    "url": "./images/grl08.jpg"
+    "id": 9,
+    "count": 0,
+		"name": "girl-09",
+    "image": "./images/grl09.jpg"
   },
   {
-    "name": "girl-09",
-    "url": "./images/grl09.jpg"
+    "id": 10,
+    "count": 0,
+		"name": "girl-10",
+    "image": "./images/grl10.jpg"
   },
   {
-    "name": "girl-10",
-    "url": "./images/grl10.jpg"
+    "id": 11,
+    "count": 0,
+		"name": "girl-11",
+    "image": "./images/grl11.jpg"
   },
   {
-    "name": "girl-11",
-    "url": "./images/grl11.jpg"
-  },
-  {
-    "name": "girl-12",
-    "url": "./images/grl12.jpg"
-  }]
+    "id": 12,
+    "count": 0,
+		"name": "girl-12",
+    "image": "./images/grl12.jpg"
+  }
+]

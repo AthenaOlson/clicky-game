@@ -7,10 +7,6 @@
   position: relative;
 }
 
-.gif img, .btn-link {
-position: absolute;
-}
-
 .btn-link {
 top: 50%;
 left: 5%;

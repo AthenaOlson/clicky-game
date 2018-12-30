@@ -9,7 +9,7 @@ import Button from 'react-bootstrap/lib/Button';
 const popoverLeft = (
     <Popover id="popover-positioned-left">
         <strong>Game Instructions</strong><br />
-        Click on a character to earn points, but don't select a character more than once!
+        Click on a snapshot to earn points, but don't click more than once!
     </Popover>
 );
 // PROPS: Header
@@ -19,11 +19,14 @@ const Header = props => (
         <div className="col-lg-6 text-center">
             <OverlayTrigger trigger="click" placement="left" overlay={popoverLeft}>
                 <Button className="logo-button btn-dark">
-                    <img src="./images/logo.png" className="bobs-burgers" alt="Bob's Burgers Logo"/>
+                <h1>click.</h1>
+                    {/* <img src="./images/logo.png" className="bobs-burgers" alt="Bob's Burgers Logo"/> */}
                 </Button>
             </OverlayTrigger>
         </div>
-        <div className="col-lg-3"></div>
+        <div className="col-lg-3 center">
+        <div className="heart">&#x2665;</div>
+        </div>
     </header>
 )
 // EXPORT DEFAULT: Header
