@@ -2,7 +2,7 @@
   "name": "clicky-game",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://athenaolson.github.io/clicky-game/",
+  "homepage": "https://athenaolson.github.io/App/",
   "dependencies": {
     "react": "^16.6.3",
     "react-bootstrap": "^0.32.4",
