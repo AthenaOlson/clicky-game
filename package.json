@@ -12,6 +12,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "pre-test": "dummydata",
     "predeploy": "yarn run build",
     "deploy": "gh-pages -d build",
     "build": "react-scripts build",
